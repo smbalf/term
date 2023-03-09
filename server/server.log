@@ -29,3 +29,13 @@
 2023-03-09 20:22:11,992 INFO Connected by ('127.0.0.1', 53305)
 2023-03-09 20:22:18,893 INFO Received message from client: register Hawkwood phase123
 2023-03-09 20:22:18,899 INFO New user registered: Hawkwood
+2023-03-09 21:08:10,279 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 21:08:14,750 INFO Connected by ('127.0.0.1', 55586)
+2023-03-09 21:08:25,628 INFO Received message from client: register Kitty meow
+2023-03-09 21:15:34,534 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 21:15:38,066 INFO Connected by ('127.0.0.1', 55983)
+2023-03-09 21:15:43,670 INFO Received message from client: register Kitty meow
+2023-03-09 21:15:43,670 ERROR Exception: Error binding parameter 0 - probably unsupported type.
+2023-03-09 21:16:02,231 INFO Connected by ('127.0.0.1', 55997)
+2023-03-09 21:16:05,180 INFO Received message from client: register Kitty meow
+2023-03-09 21:16:05,180 ERROR Exception: Error binding parameter 0 - probably unsupported type.
