@@ -1,0 +1,27 @@
+2023-03-09 16:33:46,451 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:36:33,968 INFO Connection established with ('127.0.0.1', 58680)
+2023-03-09 16:41:26,923 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 16:41:36,424 INFO Connected by ('127.0.0.1', 58916)
+2023-03-09 16:41:39,926 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:41:39,927 ERROR Exception: 'socket' object has no attribute 'execute'
+2023-03-09 16:46:55,800 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 16:47:00,043 INFO Connected by ('127.0.0.1', 59545)
+2023-03-09 16:47:03,464 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:47:03,464 ERROR Exception: 'socket' object has no attribute 'execute'
+2023-03-09 16:50:21,044 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 16:50:26,687 INFO Connected by ('127.0.0.1', 59764)
+2023-03-09 16:50:29,899 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:50:29,899 ERROR Exception: UNIQUE constraint failed: users.username
+2023-03-09 16:58:58,064 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 16:59:06,349 INFO Connected by ('127.0.0.1', 60265)
+2023-03-09 16:59:10,472 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:59:10,473 ERROR Exception: UNIQUE constraint failed: users.username
+2023-03-09 16:59:22,750 INFO Connected by ('127.0.0.1', 60273)
+2023-03-09 16:59:28,268 INFO Received message from client: register Hawkwood phase123
+2023-03-09 16:59:28,268 ERROR Exception: UNIQUE constraint failed: users.username
+2023-03-09 17:16:58,263 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 20:12:53,823 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 20:13:08,294 INFO Connected by ('127.0.0.1', 52758)
+2023-03-09 20:13:13,623 INFO Received message from client: register Hawkwood phase123
+2023-03-09 20:13:27,506 INFO Received message from client: login Hawkwood phase123
+2023-03-09 20:13:27,508 INFO User logged in successfully: Hawkwood
