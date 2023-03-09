@@ -25,3 +25,7 @@
 2023-03-09 20:13:13,623 INFO Received message from client: register Hawkwood phase123
 2023-03-09 20:13:27,506 INFO Received message from client: login Hawkwood phase123
 2023-03-09 20:13:27,508 INFO User logged in successfully: Hawkwood
+2023-03-09 20:22:09,325 INFO Server is listening on 127.0.0.1:65430
+2023-03-09 20:22:11,992 INFO Connected by ('127.0.0.1', 53305)
+2023-03-09 20:22:18,893 INFO Received message from client: register Hawkwood phase123
+2023-03-09 20:22:18,899 INFO New user registered: Hawkwood
