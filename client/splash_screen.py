@@ -3,9 +3,9 @@ from rich.panel import Panel
 from rich.prompt import Prompt
 
 
-def display():
+def splash():
     console = Console()
-    panel = Panel("[bold]Choose an option:[/]\n[1] Login\n[2] Register", title="Login/Register")
+    panel = Panel("[bold]Choose an option:[/]\n[1] Login\n[2] Register", title="[bold]Merchant's Voyage[/]")
     console.print(panel)
 
     choice = Prompt.ask("Enter option number")
