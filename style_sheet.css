@@ -1,0 +1,20 @@
+Screen {
+    background: #222323;
+}
+
+Button {
+    margin: 1 2;
+}
+
+#game_header {
+    width: 90;
+    height: 3;
+    content-align: center middle;
+    text-style: bold;
+} 
+
+#main_interface {
+    width: 90;
+    height: 30;
+    content-align: center middle;
+} 

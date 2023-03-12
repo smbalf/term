@@ -4,6 +4,8 @@ import os
 from player_login import login
 from player_register import register
 from splash_screen import splash
+from player_dashboard import display_dashboard
+
 
 
 os.system('cls')
@@ -25,7 +27,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         if choice == "1":
             result = login(s)
             if result == "Login successful!":
-                console.print(result)
+                pass
                 # RUN THE ACTUAL GAME
             else:
                 # If there was an error logging in, display the error message and show the splash screen again
@@ -34,8 +36,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         elif choice == "2":
             result = register(s)
             if result == "Registration successful!":
-                console.print(result)
-                # CODE HERE TO NEWLY REGISTERED PLAYER IN
+                pass
+                # CODE HERE TO LOG THE NEWLY REGISTERED PLAYER IN
                 # RUN THE ACTUAL GAME
             else:
                 # If there was an error registering, display the error message and show the splash screen again
